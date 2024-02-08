@@ -1,16 +1,15 @@
-# Hi 👋 I am Gaël
-## Work Smart, not hard...
+# Hi 👋 I am Matéo
+## I like skiing but gaming is better...
 ```py
 class GaelHF():
     
   def __init__(self):
-    self.username = "GaelHF";
+    self.username = "MSweeney23";
     self.location = "Québec, Canada";
-    self.youtube = "@vaxs_yt";
-    self.twitter = "@gael_hf01";
-    self.discord = "@vaxs01";
+    self.youtube = "@5ive_Glow";
+    self.discord = "@gruearaignee499";
 
-Software_Engineer = GaelHF()
+Software_Engineer = ()
 ```
 
 <h3 align="left">Languages and Tools:</h3>
